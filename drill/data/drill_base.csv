@@ -1,0 +1,5 @@
+Name,drill_bit_mm,rpm,average_density,h_0,v_0,baseline_cutting_edge_count
+Wood,1.5,20000,0.79,15,3,2
+Polycarbonate,1.5,13000,1.2,7,0.84,2
+Aluminum,1.5,10000,2.7,3,0.21,2
+Brass,1.5,9000,8.5,2.5,0.15,2

@@ -1,0 +1,25 @@
+DRILL SPEED REPORT
+
+BIT PROFILE
+Profile Name: 3mm_TungstenCarbide
+Profile Category: tungstencarbide
+Tool Type: center-cutting end mill
+Diameter: 3 mm
+Cutting Edge Count: 2
+Center Cutting: Yes
+
+WORKPIECE
+Density Source: Entered
+Density: 0.72178 g/cm3
+Material: Wood
+Plunge Level: 5 / 10
+
+RESULTS
+RPM: 15905.7 rpm
+Chip Load: 0.0182893 mm/tooth
+Horizontal Feed: 581.807 mm/min
+Horizontal Feed: 22.9058 in/min
+Vertical Feed: 126.058 mm/min
+Vertical Feed: 4.96292 in/min
+Plunge Ratio: 0.216667
+Steps Per Drill Bit Diameter: 6

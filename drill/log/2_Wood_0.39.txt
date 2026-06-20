@@ -1,0 +1,25 @@
+DRILL SPEED REPORT
+
+BIT PROFILE
+Profile Name: Tungsten_Carbide_Coated_2mm
+Profile Category: tungsten_carbide_coated
+Tool Type: center-cutting end mill
+Diameter: 2 mm
+Cutting Edge Count: 2
+Center Cutting: Yes
+
+WORKPIECE
+Density Source: Entered
+Density: 0.39 g/cm3
+Material: Wood
+Plunge Level: 5 / 10
+
+RESULTS
+RPM: 20104.2 rpm
+Chip Load: 0.0199369 mm/tooth
+Horizontal Feed: 801.627 mm/min
+Horizontal Feed: 31.5601 in/min
+Vertical Feed: 173.686 mm/min
+Vertical Feed: 6.83803 in/min
+Plunge Ratio: 0.216667
+Steps Per Drill Bit Diameter: 4
