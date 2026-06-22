@@ -1,9 +1,0 @@
-field,value
-schema_version,1
-profile_name,Tungsten_Carbide_Coated_2mm
-profile_category,tungsten_carbide_coated
-units,mm
-tool_type,center_cutting_end_mill
-diameter_mm,2
-cutting_edge_count,2
-center_cutting,true

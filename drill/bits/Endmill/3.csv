@@ -1,9 +1,9 @@
 field,value
 schema_version,1
-profile_name,3mm_TungstenCarbide
-profile_category,tungstencarbide
+profile_name,Tungsten_Carbide_Coated_3mm
+profile_category,Endmill
 units,mm
 tool_type,center_cutting_end_mill
 diameter_mm,3
 cutting_edge_count,2
-center_cutting,true
+center_cutting,TRUE

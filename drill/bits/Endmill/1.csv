@@ -1,0 +1,9 @@
+field,value
+schema_version,1
+profile_name,Tungsten_Carbide_Coated_1mm
+profile_category,Endmill
+units,mm
+tool_type,center_cutting_end_mill
+diameter_mm,1
+cutting_edge_count,2
+center_cutting,TRUE
